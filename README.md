@@ -1,6 +1,4 @@
 # SysTidy
-Safe Linux housekeeping CLI — clears package caches &amp; stale temp files, with opt-in log rotation. Never touches auth logs, login records, or shell history.
-# SysTidy
 
 A small, safe housekeeping script for Linux: clears package caches, sweeps old temp files, and (optionally) rotates your own application logs — with a built-in system-info view thrown in.
 
@@ -34,7 +32,7 @@ SysTidy keeps the useful parts of that idea (cache/temp cleanup, a system-info d
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/systidy.git
+git clone https://github.com/ramansinghkushwaha/systidy.git
 cd systidy
 chmod +x systidy.sh
 ```
@@ -90,4 +88,4 @@ MIT — see [LICENSE](LICENSE).
 
 ## Author
 
-Raman Singh Kushwaha (Hemant)
+Raman Singh Kushwaha 
